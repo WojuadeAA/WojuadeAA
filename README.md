@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, Hi 👋, I'm [Afeez Wojuade(woju)](https://www.google.com/search?q=Afeez+Wojuade+woju&oq=Afeez+Wojuade+woju)
 
-<!--
-**WojuadeAA/WojuadeAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build effective software solutions.</p>
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on tryJambCbt at O'bounce
+- 🌱 I’m currently learning Nodejs 
+- 👯 I’m looking to collaborate on any Flutter project 
+- 🤔 I’m looking for help with Nodejs and Expressjs
+- 💬 Ask me about Flutter, dart, Nodejs or any tech related stuff i'll be glad to help
+- 📫 How to reach me: [Twitter](https://twitter.com/AdebayoWojuade) |  [Medium](https://medium.com/@wojucrown7) | [Hashnode](https://hashnode.com/@Wojuade) |
+-
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
--->
+
+
+### Show some ❤️ by starring some of the repositories and do follow 😄!
