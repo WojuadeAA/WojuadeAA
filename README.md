@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 <img height="100em" src="https://github-readme-stats.vercel.app/api?username=WojuadeAA&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
-
+```text
+Other        41 hrs 56 mins  ███████████████████▓░░░░░   78.10 % 
+Dart         9 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 % 
+JavaScript   1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+YAML         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
 <!--END_SECTION:waka-->
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
