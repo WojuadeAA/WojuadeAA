@@ -11,12 +11,18 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Flutter project 
 - 🤔 I’m looking for help with Nodejs and Expressjs
 - 💬 Ask me about Flutter, dart, Nodejs or any tech related stuff i'll be glad to help
-- 📫 How to reach me: [Twitter](https://twitter.com/AdebayoWojuade) |  [Medium](https://medium.com/@wojucrown7) | [Hashnode](https://hashnode.com/@Wojuade) |
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: ...
 
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=WojuadeAA&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WojuadeAA&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WojuadeAA&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
+
 Other        41 hrs 56 mins  ███████████████████▓░░░░░   78.10 % 
 Dart         9 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 % 
 JavaScript   1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
@@ -24,9 +30,9 @@ YAML         26 mins         ▒░░░░░░░░░░░░░░░░
 JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
 
 
+
+- 📫 How to reach me: [Twitter](https://twitter.com/AdebayoWojuade) |  [Medium](https://medium.com/@wojucrown7) | [Hashnode](https://hashnode.com/@Wojuade) |
 
 ### Show some ❤️ by starring some of the repositories and do follow 😄!
