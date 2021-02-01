@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Nodejs and Expressjs
 - 💬 Ask me about Flutter, dart, Nodejs or any tech related stuff i'll be glad to help
 - 📫 How to reach me: [Twitter](https://twitter.com/AdebayoWojuade) |  [Medium](https://medium.com/@wojucrown7) | [Hashnode](https://hashnode.com/@Wojuade) |
--
+
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=WojuadeAA&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
+
 
 
 ### Show some ❤️ by starring some of the repositories and do follow 😄!
