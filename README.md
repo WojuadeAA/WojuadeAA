@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm [Afeez Wojuade(woju)](https://www.google.com/search?q=Afeez+Wojuade+woju&oq=Afeez+Wojuade+woju)
+### Hi there 👋, I'm [Afeez Wojuade(woju)](https://www.google.com/search?q=Afeez+Wojuade+woju&oq=Afeez+Wojuade+woju)
 
 
 <p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build effective software solutions.</p>
