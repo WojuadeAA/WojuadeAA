@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on tryJambCbt at O'bounce
-- 🌱 I’m currently learning Nodejs 
+- 🔭 I’m currently working on ThickPay at O'bounce
+- 🌱 I’m currently learning more about flutter with codeclan africa 
 - 👯 I’m looking to collaborate on any Flutter project 
 - 🤔 I’m looking for help with Nodejs and Expressjs
 - 💬 Ask me about Flutter, dart, Nodejs or any tech related stuff i'll be glad to help
