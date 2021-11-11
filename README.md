@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     27 mins         ████████████████████████▒   96.94 % 
 ```
 <!--END_SECTION:waka-->
 
