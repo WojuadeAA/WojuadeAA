@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Dart   7 mins          █████████████████████████   100.00 % 
+Dart   25 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
