@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart             30 hrs 19 mins  ████████████████████████▓   99.30 %
-GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Git Config       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Dart             29 hrs 3 mins   █████████████████████████   99.53 %
+Git Config       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
