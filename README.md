@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart   15 hrs 55 mins  █████████████████████████   99.99 %
+Dart   16 hrs 46 mins  █████████████████████████   99.55 %
+YAML   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
