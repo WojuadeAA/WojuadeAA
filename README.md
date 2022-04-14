@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart   13 hrs 58 mins  █████████████████████████   99.68 %
-JSON   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Dart    16 hrs 48 mins  ████████████████████████▓   98.80 %
+YAML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JSON    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
