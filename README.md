@@ -19,17 +19,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WojuadeAA&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```text
-Dart   10 hrs 16 mins  ████████████████████████░   96.35 %
-JSON   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-YAML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-```
-
-<!--END_SECTION:waka-->
-
 
 
 - 📫 How to reach me: [Twitter](https://twitter.com/AdebayoWojuade) |  [Medium](https://medium.com/@wojucrown7) | [Hashnode](https://hashnode.com/@Wojuade) |
